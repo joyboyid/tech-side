@@ -1,14 +1,14 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "Karim Reda",
+    name: "Joyboy",
     image: "/avatar.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "Penetration Tester",
-    bio: "Penetration tester with about 4 years experience in various domains such as web apps penetration testing, mobile apps penetration testing and network & infrastructure penetration testing",
-    email: "karim.reda476@gmail.com",
-    linkedin: "karim-reda-326396150",
-    github: "karimreda-99",
-    instagram: "karimreda001",
+    role: "Security Engginer",
+    bio: "Im just geekrs",
+    email: "joyboy@unram.ac.id",
+    linkedin: "127.0.0.1",
+    github: "joyboyid",
+    instagram: "0.0.0.0",
   },
   projects: [
     {
@@ -53,7 +53,7 @@ const CONFIG = {
   utterances: {
     enable: true,
     config: {
-      repo: "karimreda-99/tech-side",
+      repo: "joyboyid/tech-side",
       "issue-term": "og:title",
       label: "💬 Utterances",
     },
